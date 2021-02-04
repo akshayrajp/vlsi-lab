@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Feb  4 15:41:20 2021
+# Process ID: 29767
+# Current directory: /home/Xilinx/Vivado/2018.1/bin/SR/SR.runs/synth_1
+# Command line: vivado -log SR.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SR.tcl
+# Log file: /home/Xilinx/Vivado/2018.1/bin/SR/SR.runs/synth_1/SR.vds
+# Journal file: /home/Xilinx/Vivado/2018.1/bin/SR/SR.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source SR.tcl -notrace

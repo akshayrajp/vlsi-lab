@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1749773098928096867  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto a2f8171cb42c400cb98e008a7fc46d31 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ALL_GATES_tb_behav xil_defaultlib.ALL_GATES_tb xil_defaultlib.glbl" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "18:43:17" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/ALL_GATES_tb_behav/xsimk\"   \"xsim.dir/ALL_GATES_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/ALL_GATES_tb_behav/obj/xsim_1.lnx64.o\" \"/home/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/home/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

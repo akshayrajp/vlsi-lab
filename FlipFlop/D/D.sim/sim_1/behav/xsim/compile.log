@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/VLSI-24/17P61A0405/FlipFlop/D/D.srcs/sources_1/new/D.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/VLSI-24/17P61A0405/FlipFlop/D/D.srcs/sim_1/new/D_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_tb

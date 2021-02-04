@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/VLSI-25/17-403/demultiplexer1to8/demultiplexer1to8.srcs/sources_1/new/demultiplexer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demultiplexer
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/VLSI-25/17-403/demultiplexer1to8/demultiplexer1to8.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

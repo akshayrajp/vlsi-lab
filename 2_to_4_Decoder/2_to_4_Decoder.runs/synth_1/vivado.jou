@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Feb  4 14:27:44 2021
+# Process ID: 18232
+# Current directory: /home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.runs/synth_1
+# Command line: vivado -log TwoFourDecoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TwoFourDecoder.tcl
+# Log file: /home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.runs/synth_1/TwoFourDecoder.vds
+# Journal file: /home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source TwoFourDecoder.tcl -notrace

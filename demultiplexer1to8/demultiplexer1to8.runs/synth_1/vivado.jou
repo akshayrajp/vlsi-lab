@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Feb  4 16:17:52 2021
+# Process ID: 31244
+# Current directory: /home/VLSI-25/17-403/demultiplexer1to8/demultiplexer1to8.runs/synth_1
+# Command line: vivado -log demultiplexer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source demultiplexer.tcl
+# Log file: /home/VLSI-25/17-403/demultiplexer1to8/demultiplexer1to8.runs/synth_1/demultiplexer.vds
+# Journal file: /home/VLSI-25/17-403/demultiplexer1to8/demultiplexer1to8.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source demultiplexer.tcl -notrace

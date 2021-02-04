@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Feb  4 15:49:35 2021
+# Process ID: 30994
+# Current directory: /home/VLSI-24/17P61A0405/JK/JK.runs/synth_1
+# Command line: vivado -log JK.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source JK.tcl
+# Log file: /home/VLSI-24/17P61A0405/JK/JK.runs/synth_1/JK.vds
+# Journal file: /home/VLSI-24/17P61A0405/JK/JK.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source JK.tcl -notrace

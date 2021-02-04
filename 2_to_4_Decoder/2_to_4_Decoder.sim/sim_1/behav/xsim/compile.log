@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.srcs/sources_1/new/TwoFourDecoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TwoFourDecoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.srcs/sim_1/new/TwoFourDecoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TwoFourDecoder_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/Xilinx/Vivado/2018.1/bin/2_to_4_Decoder/2_to_4_Decoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

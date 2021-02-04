@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/VLSI-24/17P61A0405/ALL_GATES/ALL_GATES.srcs/sim_1/new/ALL_GATES_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALL_GATES_tb
+INFO: [VRFC 10-2458] undeclared symbol a, assumed default net type wire [/home/VLSI-24/17P61A0405/ALL_GATES/ALL_GATES.srcs/sim_1/new/ALL_GATES_tb.v:28]
+INFO: [VRFC 10-2458] undeclared symbol b, assumed default net type wire [/home/VLSI-24/17P61A0405/ALL_GATES/ALL_GATES.srcs/sim_1/new/ALL_GATES_tb.v:28]
+INFO: [VRFC 10-2458] undeclared symbol c, assumed default net type wire [/home/VLSI-24/17P61A0405/ALL_GATES/ALL_GATES.srcs/sim_1/new/ALL_GATES_tb.v:28]
